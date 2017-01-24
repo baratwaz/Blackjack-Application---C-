@@ -1,0 +1,9 @@
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\Blackjack.Library\bin\Debug\Blackjack.Library.dll
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\Blackjack.Library\bin\Debug\Blackjack.Library.pdb
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\Blackjack.Library\obj\Debug\Blackjack.Library.dll
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\Blackjack.Library\obj\Debug\Blackjack.Library.pdb
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\Blackjack.Library\obj\Debug\Blackjack.Library.csprojResolveAssemblyReference.cache
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\Blackjack.Library\obj\Debug\Blackjack.Library.dll
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\Blackjack.Library\bin\Debug\Blackjack.Library.dll
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\Blackjack.Library\bin\Debug\Blackjack.Library.pdb
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\Blackjack.Library\obj\Debug\Blackjack.Library.pdb

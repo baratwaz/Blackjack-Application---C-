@@ -1,0 +1,16 @@
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\bin\Debug\BlackJack1.exe.config
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\bin\Debug\BlackJack1.exe
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\bin\Debug\BlackJack1.pdb
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\bin\Debug\Blackjack.Library.dll
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\bin\Debug\Blackjack.Library.pdb
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\obj\Debug\BlackJack1.exe
+c:\users\shankarramanr5497\documents\visual studio 2013\Projects\ISAM5430\ISAM5430.GroupProject\BlackJack1\obj\Debug\BlackJack1.pdb
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\bin\Debug\BlackJack1.exe.config
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\obj\Debug\BlackJack1.exe
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\obj\Debug\BlackJack1.pdb
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\bin\Debug\BlackJack1.exe
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\bin\Debug\BlackJack1.pdb
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\bin\Debug\Blackjack.Library.dll
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\bin\Debug\Blackjack.Library.pdb
+\\Sbus-web\Wu\Isam5430\Team7\ISAM5430.GroupProject\BlackJack1\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
