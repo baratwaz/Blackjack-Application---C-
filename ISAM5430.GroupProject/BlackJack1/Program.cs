@@ -13,6 +13,7 @@ namespace BlackJack1
             var x = new Blackjack.Library.ListCards();
             var cardList = x.ListCard();
             var point = cardList[9].Points;
+            //test
         }
     }
 }
